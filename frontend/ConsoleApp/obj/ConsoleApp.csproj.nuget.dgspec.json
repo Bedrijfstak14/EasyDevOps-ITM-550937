@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Mick\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Git\\EasyDevOps-ITM-550937\\frontend\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mick\\AppData\\Roaming\\NuGet\\NuGet.Config"
