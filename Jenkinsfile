@@ -10,17 +10,15 @@ pipeline {
 		stage ('Build') {
 			steps {
 				echo "Build"
-				bat "dotnet publish \"${workspace}\\frontend\\frontend.csproj\" -c Release -o out"
+				bat "cd C:\test\EasyDevOps-ITM-550937\"
+				bat "git pull"
+				bat "dotnet Build \"${workspace}\\frConsoleApp\\ConsoleApp.csproj\" -c Release -o out"
 			}
 		}	
 		stage ('Test') {
 			steps {
 				echo "Test"
-				bat "dir out"
-				snykSecurity(
-					snykInstallation: 'ThomasCook',
-					snykTokenId: '270ef8b4-c9a3-4e49-8946-8c45407cc8f0'
-				)
+				
 			}
 		}
 	}
